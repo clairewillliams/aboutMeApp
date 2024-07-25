@@ -12,7 +12,7 @@ struct ContentView: View {
     @State private var funFact1 = ""
     @State private var funFact2 = ""
     @State private var funFact3 = ""
-    
+    // added private vars
     
     var body: some View {
         
