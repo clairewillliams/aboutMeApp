@@ -42,7 +42,7 @@ struct ContentView: View {
                        
                     funFact3 = "I have seen the northern lights!"
                     
-                }
+                } // end of button
                 .padding()
                 
                 .font(.title3)
